@@ -1,19 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Xenox-developer/Xenox-developer/main/assets/banner.svg" alt="Nikita Chindin — AI Engineer. Tools for people. Systems for agents." width="100%" />
-</p>
-
-<p align="center">
-  <a href="#selected-projects">Selected projects</a> &nbsp; / &nbsp;
-  <a href="#languages">Languages</a> &nbsp; / &nbsp;
-  <a href="https://github.com/Xenox-developer?tab=repositories">All repositories ↗</a>
-</p>
-
-### Hi, I'm Nikita.
-
-I'm an **AI Engineer** building open-source tools for AI agents and apps for learning languages. My work spans agent protocols, isolated development environments, browser extensions, and native macOS apps.
-
 ### Selected projects
-
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -47,7 +32,7 @@ I'm an **AI Engineer** building open-source tools for AI agents and apps for lea
 
 ### Languages
 
-Across my projects: **Rust · Python · JavaScript · Swift**
+Across my projects: **Rust · Python**
 
 ---
 
