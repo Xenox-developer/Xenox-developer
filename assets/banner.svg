@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Nikita Chindin — AI Engineer</title>
+  <desc id="desc">Tools for people. Systems for agents. A dark graphite banner with mint accents and an abstract connected network.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#15272a"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#5eead4" stop-opacity=".13"/><stop offset="1" stop-color="#5eead4" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#8babb0" stroke-opacity=".07"/></pattern>
+  </defs>
+  <rect width="1280" height="360" rx="20" fill="url(#bg)"/>
+  <rect width="1280" height="360" rx="20" fill="url(#grid)"/>
+  <circle cx="1050" cy="165" r="260" fill="url(#glow)"/>
+  <rect x="48" y="48" width="4" height="23" rx="2" fill="#5eead4"/>
+  <text x="68" y="65" fill="#5eead4" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="3">NIKITA CHINDIN / XENOX</text>
+  <text x="48" y="150" fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700" letter-spacing="-2">Tools for people.</text>
+  <text x="48" y="222" fill="#5eead4" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700" letter-spacing="-2">Systems for agents.</text>
+  <text x="50" y="284" fill="#a6b8c6" font-family="Arial, Helvetica, sans-serif" font-size="18">AI Engineer · Agent tooling · Language-learning apps</text>
+  <path d="M50 315H735" stroke="#2a4249"/>
+  <text x="50" y="339" fill="#6f8c97" font-family="monospace" font-size="12" letter-spacing="2">EXPLORE / BUILD / ITERATE</text>
+  <g fill="none" stroke="#5eead4">
+    <circle cx="1050" cy="180" r="113" stroke-opacity=".13"/>
+    <circle cx="1050" cy="180" r="76" stroke-opacity=".22" stroke-dasharray="4 9"/>
+    <path d="M1050 67L937 180L1050 293L1163 180Z M937 180H1163 M1050 67V293" stroke-opacity=".3"/>
+    <path d="M1050 67L1163 180L1050 293" stroke-opacity=".7"/>
+  </g>
+  <g fill="#15272a" stroke="#5eead4" stroke-width="2">
+    <rect x="1028" y="45" width="44" height="44" rx="12"/>
+    <rect x="915" y="158" width="44" height="44" rx="12"/>
+    <rect x="1141" y="158" width="44" height="44" rx="12"/>
+    <rect x="1028" y="271" width="44" height="44" rx="12"/>
+    <rect x="1020" y="150" width="60" height="60" rx="17" fill="#5eead4"/>
+  </g>
+  <g fill="#5eead4"><circle cx="1050" cy="67" r="5"/><circle cx="937" cy="180" r="5"/><circle cx="1163" cy="180" r="5"/><circle cx="1050" cy="293" r="5"/></g>
+  <path d="M1037 171L1028 180L1037 189 M1063 171L1072 180L1063 189 M1055 166L1045 194" fill="none" stroke="#0d2427" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
